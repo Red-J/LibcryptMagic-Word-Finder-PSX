@@ -1,0 +1,32 @@
+14105	03:08:05	41 01 01 23 06 05 00 03 08 01 96 ca	2ef2 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+14110	03:08:10	41 01 01 03 06 11 00 03 88 10 6c e8	b149 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+14579	03:14:29	41 01 01 0b 12 29 00 03 14 39 05 6e	811c 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+14584	03:14:34	41 01 01 03 12 74 00 03 16 34 15 44	778a 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+14649	03:15:24	41 01 01 03 33 24 00 07 15 24 eb 7c	e948 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+14654	03:15:29	41 01 01 02 13 29 00 03 15 a9 db 8a	2969 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+14899	03:18:49	41 01 01 03 16 41 00 03 08 49 b3 1a	01de 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+14904	03:18:54	41 01 01 03 56 54 00 01 18 54 50 88	04f0 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15130	03:21:55	41 01 01 03 19 45 00 03 29 55 19 75	8d73 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15135	03:21:60	41 01 01 03 19 60 00 03 21 60 dd c9	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+15242	03:23:17	41 01 01 13 21 17 00 03 23 1f 5b 34	b6f3 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15247	03:23:22	41 01 01 03 21 22 00 03 23 22 a4 08	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+15312	03:24:12	41 01 01 03 62 12 00 01 24 12 cd b2	04f0 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15317	03:24:17	41 01 01 01 22 17 00 03 24 57 92 17	28a7 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15378	03:25:03	41 01 01 03 33 03 00 0b 25 03 a0 6d	b3a5 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15383	03:25:08	41 01 01 03 23 08 00 03 25 08 4e dc	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+42045	09:20:45	41 01 01 09 1a 45 00 49 20 45 56 1e	966d 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+42050	09:20:50	41 01 01 19 18 50 00 09 20 58 13 19	b6f3 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+42580	09:27:55	41 01 01 09 25 51 00 09 07 55 a1 20	8f60 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+42585	09:27:60	41 01 01 09 05 60 00 0d 27 60 8e 47	e948 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+42671	09:28:71	41 01 01 09 26 71 00 09 28 71 15 4a	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+42676	09:29:01	41 01 01 09 27 05 00 09 09 01 8f 2a	8f60 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+42813	09:30:63	41 01 01 09 2a 63 00 49 30 63 fb 74	966d 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+42818	09:30:68	41 01 01 19 28 68 00 09 30 60 86 7e	b6f3 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43177	09:35:52	41 01 01 09 33 72 00 09 31 52 0f f7	c4f0 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43182	09:35:57	41 01 01 09 32 57 00 89 35 57 c6 8f	7e7a 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43289	09:37:14	41 01 01 29 35 14 00 09 37 10 fa 99	2ef2 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43294	09:37:19	41 01 01 09 35 18 00 09 b7 19 95 f5	b149 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43354	09:38:04	41 01 01 09 36 14 00 09 30 04 91 ad	8d73 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43359	09:38:09	41 01 01 09 36 09 00 09 38 09 ec 89	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+43408	09:38:58	41 01 01 09 36 18 00 09 3a 58 6e 34	778a 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43413	09:38:63	41 01 01 09 34 63 00 49 38 63 e8 fa	966d 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
