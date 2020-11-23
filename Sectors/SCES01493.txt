@@ -1,0 +1,16 @@
+14579	03:14:29	41 01 01 03 12 09 00 03 14 2d cc c2	48b0 0080	LC2 sector - unknown contents
+14649	03:15:24	41 01 01 03 13 20 00 03 15 04 af d0	ade4 0080	LC2 sector - unknown contents
+15130	03:21:55	41 01 01 0b 19 55 00 13 21 55 44 48	d04e 0080	LC2 sector - unknown contents
+15312	03:24:12	41 01 01 03 02 12 00 03 20 12 30 0e	f94c 0080	LC2 sector - unknown contents
+15378	03:25:03	41 01 01 03 23 13 00 03 25 0b 96 1a	85d2 0080	LC2 sector - unknown contents
+15628	03:28:28	41 01 01 03 06 28 00 03 2c 28 ae 9b	f94c 0080	LC2 sector - unknown contents
+15919	03:32:19	41 01 01 03 30 59 00 03 32 1b 9d 6d	31aa 0080	LC2 sector - unknown contents
+16101	03:34:51	41 01 01 01 32 51 00 43 34 51 2a 66	7dce 0080	LC2 sector - unknown contents
+42580	09:27:55	41 01 01 0d 25 55 00 29 27 55 69 c0	4780 0080	LC2 sector - unknown contents
+42671	09:28:71	41 01 01 08 26 71 00 89 28 71 96 71	83bb 0080	LC2 sector - unknown contents
+43177	09:35:52	41 01 01 09 73 52 00 09 37 52 c7 f5	0cf2 0080	LC2 sector - unknown contents
+43354	09:38:04	41 01 01 01 36 04 00 19 38 04 cc 90	d04e 0080	LC2 sector - unknown contents
+43408	09:38:58	41 01 01 49 36 58 00 0b 38 58 aa b2	b30c 0080	LC2 sector - unknown contents
+43634	09:41:59	41 01 01 0b 39 59 00 49 41 59 a9 c2	7dce 0080	LC2 sector - unknown contents
+43963	09:46:13	41 01 01 09 44 1b 00 09 46 03 e8 90	109c 0080	LC2 sector - unknown contents
+44159	09:48:59	41 01 01 09 44 59 00 09 08 59 68 07	860c 0080	LC2 sector - unknown contents

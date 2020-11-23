@@ -1,0 +1,32 @@
+14485	03:13:10	41 01 01 03 11 12 00 03 53 10 99 22	49cf 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+14490	03:13:15	41 01 01 03 01 15 00 0b 13 15 10 ba	b3a5 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15056	03:20:56	41 01 01 43 18 56 00 03 20 54 c1 08	fd2e 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15061	03:20:61	41 01 01 03 18 63 00 03 60 61 58 67	49cf 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15130	03:21:55	41 01 01 03 19 45 00 03 29 55 19 75	8d73 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15135	03:21:60	41 01 01 03 19 60 00 03 21 60 dd c9	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+15242	03:23:17	41 01 01 13 21 17 00 03 23 1f 5b 34	b6f3 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15247	03:23:22	41 01 01 03 21 22 00 03 23 22 a4 08	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+15312	03:24:12	41 01 01 03 62 12 00 01 24 12 cd b2	04f0 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15317	03:24:17	41 01 01 01 22 17 00 03 24 57 92 17	28a7 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+15628	03:28:28	41 01 01 03 26 2c 00 03 08 28 d8 b7	8f60 0080	LC2 sector - unknown contents
+15633	03:28:33	41 01 01 03 06 33 00 07 28 33 f5 60	e948 0080	LC2 sector - unknown contents
+15919	03:32:19	41 01 01 03 30 19 00 03 32 19 ac 47	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+15924	03:32:24	41 01 01 03 34 24 00 23 32 24 e6 4a	80e7 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+16167	03:35:42	41 01 01 03 33 42 00 03 35 42 e9 63	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+16172	03:35:47	41 01 01 07 33 47 00 03 35 67 7f 35	e524 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+42432	09:25:57	41 01 01 09 63 57 00 0b 25 57 a5 f2	04f0 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+42437	09:25:62	41 01 01 0b 23 62 00 09 25 22 c0 ea	28a7 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43012	09:33:37	41 01 01 09 31 33 00 09 13 37 63 09	8f60 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43017	09:33:42	41 01 01 09 11 42 00 0d 33 42 15 c2	e948 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43177	09:35:52	41 01 01 09 33 72 00 09 31 52 0f f7	c4f0 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43182	09:35:57	41 01 01 09 32 57 00 89 35 57 c6 8f	7e7a 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43289	09:37:14	41 01 01 29 35 14 00 09 37 10 fa 99	2ef2 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43294	09:37:19	41 01 01 09 35 18 00 09 b7 19 95 f5	b149 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43354	09:38:04	41 01 01 09 36 14 00 09 30 04 91 ad	8d73 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43359	09:38:09	41 01 01 09 36 09 00 09 38 09 ec 89	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+43634	09:41:59	41 01 01 19 39 59 00 09 41 51 62 ff	b6f3 0080	LC2 sector - unknown contents
+43639	09:41:64	41 01 01 09 39 64 00 09 41 64 1e e6	0080 0080	LC2 sector, no errors in dumped data & CRC-16, changes in CRC-16
+43963	09:46:13	41 01 01 09 44 1b 00 09 56 13 f9 d2	01de 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+43968	09:46:18	41 01 01 09 04 18 00 0b 46 18 a1 68	04f0 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+44312	09:50:62	41 01 01 49 48 62 00 09 50 60 7e 75	fd2e 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
+44317	09:50:67	41 01 01 09 48 65 00 09 10 67 b9 66	49cf 0080	LC2 sector, no errors in dumped data & CRC-16, changes in data & CRC-16
