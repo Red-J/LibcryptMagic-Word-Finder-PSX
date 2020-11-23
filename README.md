@@ -24,7 +24,9 @@ with this Hex value:   000000000200E73000000000ADFF84200000000000000000
 
 Replace this Hex value:25308600
 
-with this hex value:   ????C634     ???? IS THE MAGICWORD VALUE TO PATCH
+with this hex value:   ????C634    
+
+???? IS THE MAGICWORD VALUE TO PATCH
   
 =======================================================================
 
